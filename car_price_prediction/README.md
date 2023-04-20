@@ -30,4 +30,4 @@
 - время предсказания модели
 
 ## Используемые инструменты
-*Python*, *Pandas*, *sklearn*, *lightgbm*, *catboost*, *sklearn*
+*Python*, *Pandas*, *sklearn*, *lightgbm*, *catboost*
